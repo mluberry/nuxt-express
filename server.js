@@ -5,8 +5,6 @@ const express = require('express');
 const path = require('path');
 const app = express();
 
-const conf = require('./config');
-
 app.use(bodyParser.json());
 app.use(session({
   secret: 'super-secret-key',

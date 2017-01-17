@@ -1,6 +1,6 @@
 # Nuxt.js + Express
 
-> Nuxt.js project
+> Nuxt.js project using Spotify API.
 
 ## Build Setup
 

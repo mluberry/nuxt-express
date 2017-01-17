@@ -23,4 +23,4 @@ $ npm run generate
 
 * [Nuxt.js](https://nuxtjs.org/)
 * [Vue.js](https://vuejs.org/)
-* [Express](expressjs.com/)
+* [Express](http://expressjs.com/)

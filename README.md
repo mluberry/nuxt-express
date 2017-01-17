@@ -1,4 +1,4 @@
-# nuxt-boiler
+# Nuxt.js + Express
 
 > Nuxt.js project
 
@@ -19,4 +19,8 @@ $ npm start
 $ npm run generate
 ```
 
-[Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+## Docs
+
+* [Nuxt.js](https://nuxtjs.org/)
+* [Vue.js](https://vuejs.org/)
+* [Express](expressjs.com/)

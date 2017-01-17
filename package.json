@@ -1,0 +1,45 @@
+{
+  "name": "nuxt-boiler",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "author": "Matthieu Luberry <matthieu.luberry@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "build": "nuxt build",
+    "start": "NODE_ENV=production node server.js",
+    "generate": "nuxt generate",
+    "test": "ava"
+  },
+  "dependencies": {
+    "async": "2.1.4",
+    "axios": "^0.15.3",
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.7",
+    "compression": "1.6.2",
+    "express": "4.14.0",
+    "express-session": "^1.14.2",
+    "jquery": "^3.1.1",
+    "lodash": "^4.17.4",
+    "moment": "^2.17.1",
+    "nuxt": "latest",
+    "superagent": "3.3.2",
+    "vue-bootstrap-pagination": "^2.10.2",
+    "vue-notifications": "^0.7.6"
+  },
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "css-loader": "^0.26.1",
+    "eslint": "3.13.1",
+    "eslint-config-semistandard": "7.0.0",
+    "eslint-config-standard": "6.2.1",
+    "eslint-plugin-import": "2.2.0",
+    "eslint-plugin-promise": "3.4.0",
+    "eslint-plugin-standard": "2.0.1",
+    "jsdom": "^9.9.1",
+    "node-sass": "^4.3.0",
+    "nodemon": "1.11.0",
+    "sass-loader": "^4.1.1",
+    "style-loader": "^0.13.1"
+  }
+}
